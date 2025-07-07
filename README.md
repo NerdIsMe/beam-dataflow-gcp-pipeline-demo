@@ -21,10 +21,10 @@ The [London Bicycle Hires](https://console.cloud.google.com/marketplace/details/
 
 ### Pipeline Graph on Dataflow
 <div align="center">
-    <img src="pipeline_graphs/pipeline_graph_0.jpg" alt="Pipeline Graph 0" width="400"/>
-    <img src="pipeline_graphs/pipeline_graph_1.jpg" alt="Pipeline Graph 1" width="400"/>
-    <img src="pipeline_graphs/pipeline_graph_2.jpg" alt="Pipeline Graph 2" width="400"/>
-    <img src="pipeline_graphs/pipeline_graph_3.jpg" alt="Pipeline Graph 3" width="400"/>
+    <img src="pipeline_graphs/pipeline_graph_0.jpg" alt="Pipeline Graph 0" width="500"/>
+    <img src="pipeline_graphs/pipeline_graph_1.jpg" alt="Pipeline Graph 1" width="500"/>
+    <img src="pipeline_graphs/pipeline_graph_2.jpg" alt="Pipeline Graph 2" width="500"/>
+    <img src="pipeline_graphs/pipeline_graph_3.jpg" alt="Pipeline Graph 3" width="500"/>
 </div>
 
 ### Pipeline Simple Logics 
