@@ -20,10 +20,12 @@ The [London Bicycle Hires](https://console.cloud.google.com/marketplace/details/
 - `./setup.py`: Configuration script for packaging the pipeline for GCP Dataflow execution.
 
 ### Pipeline Graph on Dataflow
-<img src="pipeline_graphs/pipeline_graph_0.jpg" alt="Pipeline Graph 0" width="600"/>
-<img src="pipeline_graphs/pipeline_graph_1.jpg" alt="Pipeline Graph 1" width="600"/>
-<img src="pipeline_graphs/pipeline_graph_2.jpg" alt="Pipeline Graph 2" width="600"/>
-<img src="pipeline_graphs/pipeline_graph_3.jpg" alt="Pipeline Graph 3" width="600"/>
+<div align="center">
+    <img src="pipeline_graphs/pipeline_graph_0.jpg" alt="Pipeline Graph 0" width="400"/>
+    <img src="pipeline_graphs/pipeline_graph_1.jpg" alt="Pipeline Graph 1" width="400"/>
+    <img src="pipeline_graphs/pipeline_graph_2.jpg" alt="Pipeline Graph 2" width="400"/>
+    <img src="pipeline_graphs/pipeline_graph_3.jpg" alt="Pipeline Graph 3" width="400"/>
+</div>
 
 ### Pipeline Simple Logics 
 ```
